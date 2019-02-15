@@ -8,7 +8,7 @@ import './src/text'
 
 
 function aaa(){
-    console.log(111)
+    console.log('dwadwa')
 }   
 aaa()
 
